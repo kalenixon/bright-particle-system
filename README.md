@@ -2,6 +2,9 @@
 
 A p5.js sketch that uses a dynamic particle system to "stretch" the bright pixels from a web cam. 
 
+Demo:
+https://kalenixon.github.io/bright-particles
+
 ## Usage
 
 Certain key strokes control various aspects of the sketch. 
